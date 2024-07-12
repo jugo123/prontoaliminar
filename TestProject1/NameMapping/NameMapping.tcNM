@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{4409060B-0B39-411C-8921-996F499AD9E9}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="firefox" Key="{BFF02720-831F-458B-9CF5-8776A163874D}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="firefox" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndMozillaDropShadowWindowClass" Key="{EDDE9D46-EC8D-48F7-A6B3-A442FAAD7223}">
+								<Image FileName="1265009565" Left="0" Top="0" Right="1588" Bottom="143" />
+								<TypeInfo Item0="{F2081147-8D5F-44BD-B908-A73AB981CAAF}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="MozillaDropShadowWindowClass" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="wndMozillaDropShadowWindowClass2" Key="{96878A43-155C-4D9D-8EE1-80FF081B27A8}">
+								<Image FileName="605782048" Left="0" Top="0" Right="352" Bottom="390" />
+								<TypeInfo Item0="{F2081147-8D5F-44BD-B908-A73AB981CAAF}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="MozillaDropShadowWindowClass" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="17" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="firefox" Owner="{BFF02720-831F-458B-9CF5-8776A163874D}">
+			<Child Name="wndMozillaDropShadowWindowClass" Owner="{EDDE9D46-EC8D-48F7-A6B3-A442FAAD7223}" />
+			<Child Name="wndMozillaDropShadowWindowClass2" Owner="{96878A43-155C-4D9D-8EE1-80FF081B27A8}" />
+		</Child>
+	</LogicalNodes>
+</Root>

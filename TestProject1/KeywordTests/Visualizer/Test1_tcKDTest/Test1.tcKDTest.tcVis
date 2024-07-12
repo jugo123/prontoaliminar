@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{F764D499-AE4B-41AE-8C00-B0ECC9369717}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45485.078275463" objectName="Aliases.firefox.wndMozillaDropShadowWindowClass" objectLeft="0" objectTop="0" objectRight="1588" objectBottom="143" clickPointX="186" clickPointY="75" imageFileName="tcvi11723281169007.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45485.0783101852" objectName="Aliases.firefox.wndMozillaDropShadowWindowClass" objectLeft="0" objectTop="0" objectRight="1588" objectBottom="62" clickPointX="216" clickPointY="23" imageFileName="tcvi117264841690011.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45485.0783449074" objectName="Aliases.firefox.wndMozillaDropShadowWindowClass" objectLeft="0" objectTop="0" objectRight="1588" objectBottom="162" clickPointX="201" clickPointY="110" imageFileName="tcvi117292341690017.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45485.0785185185" objectName="Aliases.firefox.wndMozillaDropShadowWindowClass2" objectLeft="0" objectTop="0" objectRight="352" objectBottom="390" clickPointX="137" clickPointY="276" imageFileName="tcvi117448591690029.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45485.0787731481" objectName="Aliases.firefox.wndMozillaDropShadowWindowClass" objectLeft="0" objectTop="0" objectRight="1588" objectBottom="143" clickPointX="184" clickPointY="106" imageFileName="tcvi117667811690038.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
